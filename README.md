@@ -9,7 +9,7 @@ I still stay hands‑on: I create PoCs, turn ideas into MVPs, and prepare live d
 
 ## Ongoing 
 
-- Multi Step Agentic Information Retrieval System for a MongoDB containing customer service mass data. Turn natural language questions from sales employes into data retrieval and execution plans by using business level specification documents.
-- AI based Document processing: PDF Invoice Transformation for a business intelligence system. Enable the cubes to process "old school" financial transctions
-- Fun project: Learning foreign languages with multi modal realtime language models. Resolving problems with non english languages like german and european portuguese.
-- Data Privacy: Enable Publicly appointed and sworn experts. Process classified documents locally & self hosted. 
+- Multi‑step Agentic Information Retrieval System for a MongoDB containing customer service mass data. Turn natural language questions from sales employees into data retrieval and execution plans using business‑level specification documents.
+- AI‑based Document Processing: PDF Invoice Transformation for a business intelligence system. Enable the cubes to process "old‑school" financial transactions.
+- Fun project: Learning foreign languages with multimodal real‑time language models. Resolving problems with non‑English languages like German and European Portuguese.
+- Data privacy: Enable publicly appointed and sworn experts. Process classified documents locally & self‑hosted.
